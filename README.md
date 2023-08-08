@@ -8,30 +8,12 @@ Comenzamos descargando el archvio Divisas.rar que esta al inicio, luego de desca
 
 Aca una pequeña muestra.
 
+![Instalacion](https://github.com/YeisonCanoP/Divisas/assets/125613996/a0655962-fae4-4f48-9175-f0389b016d86)
 
 ## Ejecutando las pruebas ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+Aca podemso ver como se haria el cambio de divisas y temperatura y el tipo de funciones que tiene.
 
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
