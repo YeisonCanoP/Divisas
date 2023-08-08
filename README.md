@@ -26,5 +26,5 @@ Posee un boton de convertir y otro para intercambiar las divisas selecionadas.
 
 ## Autores ✒️
 
-* **Yeison Cano** - *Trabajo Inicial* - [YeisonCanoP](https://github.com/YeisonCanoP)
+* **Yeison Cano** - *Desarrollador* - [YeisonCanoP](https://github.com/YeisonCanoP)
 
